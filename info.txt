@@ -1,0 +1,15 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Questa_Sans_Regular
+font link: https://www.fontspring.com/fonts/the-questa-project/questa-sans/questa-sans-regular
+font author: The Questa Project
+font author site: http://thequestaproject.com/
+
+
+
+fontColor: {"hex":"#D1A103"}
+bgColor: {"hex":"#000000"}
+
+
+      
